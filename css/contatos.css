@@ -17,7 +17,6 @@ h2 {
 
 header {
   background: #bbbbbb;
-  padding: 0 0 24px;
 }
 .caixa {
   position: relative;
@@ -161,6 +160,7 @@ footer {
   }
   .navegacao {
     text-align: center;
+    padding: 0 0 24px;
   }
   nav {
     position: static;

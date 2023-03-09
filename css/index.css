@@ -19,7 +19,6 @@ h2 {
 
 header {
   background: #bbbbbb;
-  padding: 0 0 24px;
 }
 .caixa {
   position: relative;
@@ -30,6 +29,7 @@ header {
 .navegacao {
   display: flex;
   justify-content: space-around;
+  padding: 0 0 24px;
 }
 nav {
   position: absolute;
