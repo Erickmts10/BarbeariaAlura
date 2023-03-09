@@ -17,7 +17,7 @@ h2 {
 
 header {
   background: #bbbbbb;
-  padding: 20px 0;
+  padding: 24px 0;
 }
 .caixa {
   position: relative;
@@ -117,8 +117,10 @@ footer {
     text-align: center;
   }
   .navegacao {
+    display: flex;
+    justify-content: space-around;
     text-align: center;
-    padding-bottom: 40px;
+    padding: 0 0 24px;
   }
   nav {
     position: static;
